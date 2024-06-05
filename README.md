@@ -54,7 +54,3 @@
 ## Test Coverage
 - ![img.png](img.png)
 - The Service package is the main package which has all the major business logic and it has a 92% of test coverage as there were some methods which were irrelevant for testing.
-
-## BannerID and Name
-- B00971102
-- Shrey Devendrabhai Monka
